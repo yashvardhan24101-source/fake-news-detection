@@ -1,0 +1,8 @@
+Dataset
+
+The dataset used in this project is the Fake and Real News Dataset from Kaggle.
+
+Download it from:
+https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
+After downloading, place Fake.csv and True.csv in the project folder before running train_model.py.
